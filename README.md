@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Eduardo
 
 <div>
   <a href="https://beacons.ai/EduardoMosca"></a>
@@ -9,5 +9,6 @@
 <div style="display: inline-block;"><br>
   <img align="center" alt="c-language" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img src="" alt="">
+  <img align="center" alt="cplusplus-language" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
